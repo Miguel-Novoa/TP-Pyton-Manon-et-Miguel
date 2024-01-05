@@ -1,2 +1,2 @@
-# TP Pyton Manon et Miguel
+# TP Pyton de Manon et Miguel
  
